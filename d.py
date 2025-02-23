@@ -15,8 +15,8 @@ from rajaji import BOT_TOKEN, ADMIN_IDS
 USER_FILE = "users.json"
 KEY_FILE = "keys.json"
 
-DEFAULT_THREADS = 900
-DEFAULT_PACKET = 13
+DEFAULT_THREADS = 1000
+DEFAULT_PACKET = 10
 
 user_processes = {}
 users = {}
